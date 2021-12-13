@@ -1,0 +1,3 @@
+Requirements
+numpy>=1.19
+gym>=0.17
